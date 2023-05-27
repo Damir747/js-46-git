@@ -6,21 +6,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 	<link href="css/style.css" rel="stylesheet" />
 	<title class="title">Git и Github</title>
-	<h1>Практикуемся в работе с Git</h1>
 </head>
 
 <body>
+	<h1>Практикуемся в работе с Git</h1>
+<<<<<<< HEAD
+	<h1>Это заголовок первого уровня. Main для конфликта. Третий раз</h1>
+=======
+	<h1>Это заголовок первого уровня. Сделано всё для конфликта. Третий конфликт. Ветка task/merge-conflict-</h1>
+>>>>>>> task/merge-conflict
 	<p>На этой странице будет много интересного контента по Git и Github</p>
 	<p>Ку-ку, Му-му!</p>
 	<p>Третий абзац. Стал длинее.</p>
 	<p>Четвертый абзац. <a href="pages/company.html">Перейти на страницу "О" ("О проекте")</a></p>
 	<p><a href="pages/new.html"></a></p>
-<<<<<<< HEAD
-	<p class="quote"></p>
-=======
 	<p class="description">Conflict Merge Editor</p>
-
->>>>>>> conflict/merge-editor
+	<p class="quote"></p>
 </body>
 
 </html>
